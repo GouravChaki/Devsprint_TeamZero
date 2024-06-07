@@ -16,3 +16,5 @@ Guidelines:
 Password for Authority: KIIT239
 
 We have even provided a Power point presentation that describes properly tthe functioning of our website.
+
+Deployed on: https://gouravchaki.github.io/EXAM-SEAT-PREDICTION/
